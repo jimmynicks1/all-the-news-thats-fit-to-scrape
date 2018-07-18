@@ -1,0 +1,15 @@
+h4{
+  color: white;
+}
+
+.hover{
+    background-color: rgb(182, 157, 155)
+}
+
+.hoverRed:hover{
+  color: rgb(80, 141, 0);
+}
+
+.hover:hover{
+    background-color: rgba(0,0,0,0.5);
+}
